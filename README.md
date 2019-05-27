@@ -1,2 +1,2 @@
-# thuctap
-# Chào bạn tới VuePress VuePress thật dễ phải không
+# Chào bạn tới VuePress 
+VuePress thật dễ phải không
